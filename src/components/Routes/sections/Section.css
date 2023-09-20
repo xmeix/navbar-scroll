@@ -1,0 +1,6 @@
+.section {
+  margin: 1em;
+  height: 90vh;
+  text-align: center;
+  border: solid 1px red;
+}

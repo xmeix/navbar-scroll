@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1em 4em;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: black;
+  border: solid 1px black;
+  padding: 0.5em 1em;
+}
+
+.selected {
+  color: red !important; /* Change the text color with !important */
+  /* Add any other styles you want with !important */
+}
